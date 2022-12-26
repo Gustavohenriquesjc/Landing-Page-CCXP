@@ -1,0 +1,154 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 5px;
+    
+}
+
+header {
+    background-color: #FFD900;
+    padding: 1%;
+    height: 80px;
+    width: 1728px;
+
+}
+
+section{
+    background-color:#514988; 
+    width: 664px;
+    height: 550px;
+    left: 0px;
+    top: 118px;
+    padding: 12px;
+    margin-bottom: 380px;
+    
+  
+    
+    
+    
+}
+
+section h1 {
+    color: #F3C61F;
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 30px;
+
+
+}
+
+
+section h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+#paragrafo {
+    text-align: center;
+    color: #ffff;
+    top: 100px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+
+
+color: #FFFFFF; 
+    
+}
+
+aside {
+   text-align: center;
+   width: 780px;
+    
+}
+
+
+#h1relogio {
+    color: hsl(334, 75%, 55%);
+    width: auto;
+    left: 800px;
+
+
+
+
+}
+
+#principal {
+    display: flex;
+    flex-direction: inherit;
+}
+
+
+#rodape {
+    margin-top: 250px;
+    width : 1004px
+}
+
+button {
+width: 400px;
+height: 100px;
+left: 900px;
+top: 800px;
+background: #514988;
+border-radius: 20px;
+position: absolute;
+}
+
+button h1{
+    font-size: 30px;
+    color: white;
+   
+}
+
+.timer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-left: 1px;
+    color: #514988;
+    font-size: 27px;
+    padding: 0px;
+    
+    
+
+    }
+    
+
+button:hover {
+    background:#F3C61F;
+    cursor: pointer;
+
+}
+
+#ainda{
+width: 700px;
+height: 33px;
+left: 89px;
+top: 827px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #F3C61F;
+}
+
+
+
+
+
+
+
